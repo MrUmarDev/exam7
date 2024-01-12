@@ -1,0 +1,38 @@
+{
+  "login": {
+    "sign": "Sign in",
+    "text": "Enter your credentials to access your account",
+    "email": "Email",
+    "password": "Password",
+    "forgot": "Forgot your password?",
+    "reset": "Reset Password",
+    "logout": "Log out",
+    "new_password": "New Password",
+    "confirm_password": "Confirm Password"
+  },
+  "admins": {
+    "dashboard": "Dashboard",
+    "orders": {
+      "index": "Orders",
+      "create": "Create Order"
+    },
+    "products": {
+      "index": "Products"
+    },
+    "customers": {
+      "index": "Customers",
+      "create": "Create Customer"
+    },
+    "expenses": {
+      "index": "Expenses"
+    },
+    "inventory": {
+      "index": "Inventory"
+    },
+    "reports": {
+      "index": "Reports",
+      "intern": "Internal Reports",
+      "extern": "External Reports"
+    }
+  }
+}
